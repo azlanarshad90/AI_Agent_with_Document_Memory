@@ -1,0 +1,8 @@
+**Install below libraries using 'pip install' before running the code**
+
+langchain
+openai
+tiktoken
+faiss-cpu
+pypdf
+PyPDF2
